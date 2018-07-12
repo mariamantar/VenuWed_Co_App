@@ -17,6 +17,10 @@ gem 'uglifier', '>= 1.3.0'
 # gem 'mini_racer', platforms: :ruby
 gem 'simple_form'
 gem 'bootstrap', '~> 4.1.1'
+gem 'jquery-rails'
+gem 'devise'
+gem 'carrierwave', '~> 1.0'
+gem "mini_magick"
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
